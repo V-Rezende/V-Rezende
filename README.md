@@ -11,8 +11,6 @@ I bring the same dedication to coding.
 
 🚀 Let's connect and explore the possibilities in the dynamic world of web development.
 
-##
-
 <p align="left">
   <a href="linkedin.com/in/vinni-rezende-00b815b1">
     <img src="https://custom-icon-badges.demolab.com/badge/-Contact%20Me-blue?style=for-the-badge&logoColor=white&logo=codespaces" alt="link to linkedin"/>
@@ -21,6 +19,8 @@ I bring the same dedication to coding.
     <img src="https://custom-icon-badges.demolab.com/badge/-portfolio-red?style=for-the-badge&logo=trophy&logoColor=white" alt="link to portfolio"/>
   </a>
 </p>
+
+##
 
 ### ⛏️ Languages and tools
   <img align="left" width="30px" style="padding-right: 10px" src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000">

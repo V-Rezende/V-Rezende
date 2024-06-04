@@ -23,8 +23,8 @@ I bring the same dedication to coding.
 ### ⛏️ Languages and tools
   <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="left" width="40px" style="padding-right: 10px" src="https://icons8.com/icon/YjeKwnSQIBUq/css3">
-  <img align="left" width="40px" style="padding-right: 10px" src="https://icons8.com/icon/20909/html-5">
+  <img align="left" width="40px" style="padding-right: 10px" src="[https://icons8.com/icon/YjeKwnSQIBUq/css3](https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000)">
+  <img align="left" width="40px" style="padding-right: 10px" src="[https://icons8.com/icon/20909/html-5](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)">
   <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="left" width="40px" style="padding-right: 10px" src="https://styled-components.com/atom.png">
   <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">

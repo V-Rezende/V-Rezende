@@ -11,8 +11,6 @@ I bring the same dedication to coding.
 
 🚀 Let's connect and explore the possibilities in the dynamic world of web development.
 
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"/>
-
 <p align="left">
   <a href="linkedin.com/in/vinni-rezende-00b815b1">
     <img src="https://custom-icon-badges.demolab.com/badge/-Contact%20Me-blue?style=for-the-badge&logoColor=white&logo=codespaces" alt="link to linkedin"/>
@@ -20,7 +18,6 @@ I bring the same dedication to coding.
   <a href="https://v-rezende.github.io/V-Rezende-Portfolio/">
     <img src="https://custom-icon-badges.demolab.com/badge/-portfolio-red?style=for-the-badge&logo=trophy&logoColor=white" alt="link to portfolio"/>
   </a>
-  <button class"btn btn-primary">Teste</button>
 </p>
 
 ### ⛏️ Languages and tools

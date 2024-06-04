@@ -1,4 +1,4 @@
-Hello there, I'm Vinni, a passionate Front End Developer on an exciting journey. 🚀
+## Hello There, I'm Vinni, a passionete Front End Developer on an exciting journey! 🚀
 
 🧭 My path began in Sport Science and Logistics, where precision was key. 
 Now, I'm devoted to web development. 
@@ -10,6 +10,8 @@ I bring the same dedication to coding.
 🙌 Known for my hard work and discipline, I thrive in collaborative environments, using my unique background and adaptability to solve problems creatively. Challenges are chances to learn.
 
 🚀 Let's connect and explore the possibilities in the dynamic world of web development.
+
+##
 
 <p align="left">
   <a href="linkedin.com/in/vinni-rezende-00b815b1">
